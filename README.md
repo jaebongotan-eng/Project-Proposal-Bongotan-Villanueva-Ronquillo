@@ -1,1 +1,1 @@
-# Project-Proposal-Bongotan-Villanueva-Ronquillo
+Our Computer Science 2 Project for the seccond quarter contains our Revised and improved Project Proposal and plan. This plan aims to create a program that will allow the user to input an Nba player's name and the program will output the statistics and rankings of that player coming from an imported library from another programmer.
